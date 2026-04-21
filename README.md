@@ -71,6 +71,12 @@ This project helped me understand how to:
 
 ---
 
+## Live Demo
+
+--> https://aryan689t.github.io/Quiz-Site/
+
+---
+
 ## ⭐ Acknowledgment
 
 Built as a learning project to strengthen JavaScript fundamentals.
