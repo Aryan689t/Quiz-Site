@@ -30,7 +30,7 @@ Users can attempt multiple-choice questions, receive instant feedback, and view 
 
 * HTML
 * CSS
-* JavaScript (Vanilla JS)
+* JavaScript 
 
 ---
 
